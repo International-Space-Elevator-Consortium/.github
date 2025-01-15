@@ -49,7 +49,7 @@ ISEC organizes conferences to bring together experts, students, and enthusiasts.
 ![ISEC Conference](https://isec.org/resources/Pictures/ISEC_Conference.png)
 
 - **Space Elevator Conference**: Hosted annually, featuring presentations, workshops, and networking.  
-  [Learn More](https://isec.org/Events)
+  [Learn More](https://isec.org/events)
 
 ---
 
@@ -61,14 +61,14 @@ ISEC is driven by contributions from individuals passionate about space explorat
 - Join research initiatives  
 - Attend events and conferences  
 
-Visit [https://isec.org/Join](https://isec.org/Join) to get started.
+Visit [https://isec.org/Join](https://isec.org/membership) to get started.
 
 ---
 
 ## Connect with Us
 
 - **Website**: [https://isec.org](https://isec.org)  
-- **Twitter**: [@ISEC](https://twitter.com/ISEC)  
+- **Twitter**: [@ISECdotORG](https://twitter.com/ISECdotORG)
 - **LinkedIn**: [International Space Elevator Consortium](https://www.linkedin.com/company/international-space-elevator-consortium)
 
 ---
