@@ -61,7 +61,7 @@ ISEC is driven by contributions from individuals passionate about space explorat
 - Join research initiatives  
 - Attend events and conferences  
 
-Visit [https://isec.org/Join](https://isec.org/membership) to get started.
+Visit [https://isec.org/membership](https://isec.org/membership) to get started.
 
 ---
 
