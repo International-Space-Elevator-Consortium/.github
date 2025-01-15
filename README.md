@@ -1,4 +1,4 @@
-# International Space Elevator Consortium (ISEC)
+# International Space Elevator Consortium (ISEC.org)
 
 Welcome to the **International Space Elevator Consortium (ISEC)** GitHub repository. This page serves as a hub for collaborative efforts, code development, and resources for advancing the Space Elevator concept.
 
@@ -31,29 +31,31 @@ This innovative system could dramatically reduce the cost and energy required to
 
 ISEC provides many resources to help educate and promote the Space Elevator concept:
 
-1. **Annual Reports**: Research updates and project progress.  
-   [View Reports](https://isec.org/AnnualReports)
+1. **ISEC News**: news and project progress.  
+   [View News](https://isec.org/news)
 
-2. **ISEC Journal**: Peer-reviewed articles on Space Elevator research.  
-   [Read the Journal](https://isec.org/Journal)
-
-3. **White Papers**: In-depth exploration of key Space Elevator topics.  
-   [Explore White Papers](https://isec.org/WhitePapers)
-
----
-
-## Events and Conferences
-
-ISEC organizes conferences to bring together experts, students, and enthusiasts.
-
-![ISEC Conference](https://isec.org/resources/Pictures/ISEC_Conference.png)
-
-- **Space Elevator Conference**: Hosted annually, featuring presentations, workshops, and networking.  
+2. **Space Elevator Events**: Hosted annually, featuring presentations, workshops, and networking.  
   [Learn More](https://isec.org/events)
 
+3. **ISEC Academic Challenge**: In-depth exploration of key Space Elevator topics.  
+   [Explore White Papers](https://www.isec.org/academic-challenge)](https://isec.org/academic-challenge)
+
+4. **ISEC Social Media**: Links to Space Elevator Social Media.  
+   [Social Media](https://www.isec.org/academic-challenge)](https://www.isec.org/social-media)
+
+5. **Photographs**: Just a few Space Elevator visionary photgraphs.  
+   [Photographs](https://www.isec.org/photographs)](https://www.isec.org/photographs)
+
+6. **ISEC Current Newsleter**: The current and all previoius newsletters.  
+   [Social Media](https://www.isec.org/current-newsletter)](https://www.isec.org/current-newsletter)
+
+7. **ISEC Sponsors**: ISEC cannot do this work alone without your help and other champions.  
+   [Partners](https://www.isec.org/partners)](https://www.isec.org/partners)
+   [Sponsors](https://www.isec.org/sponsors)](https://www.isec.org/sponsors) 
+
 ---
 
-## Get Involved
+## Get Involved/Memberships
 
 ISEC is driven by contributions from individuals passionate about space exploration and technology. Join the effort to make the **Space Elevator a reality**.
 
@@ -71,11 +73,13 @@ Visit [https://isec.org/membership](https://isec.org/membership) to get started.
 - **Twitter**: [@ISECdotORG](https://twitter.com/ISECdotORG)
 - **LinkedIn**: [International Space Elevator Consortium](https://www.linkedin.com/company/international-space-elevator-consortium)
 
+- 
+
 ---
 
 ### License
 
-This repository and its contents are governed by the terms of all applicable licenses.
+This repository and its contents are governed by the terms of all applicable licenses all repositories containing intelectual property are private.   Access to any articat is restricted.
 
 ---
 ![ISEC Logo](https://images.squarespace-cdn.com/content/v1/5e35af40fb280744e1b16f7b/1665545924720-VDSYL1Z3D9ZATA9LUBD4/elevatorLogo.jpg?format=2500w)
