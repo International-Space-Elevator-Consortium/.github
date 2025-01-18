@@ -18,12 +18,14 @@ For more information, visit the official ISEC website: [https://isec.org](https:
 A **Space Elevator** is a revolutionary transportation system that consists of:
 
 - A **tether** anchored to Earth's surface and extending into space.
-- A **counterweight** in geostationary orbit to balance the tether.
+- A **counterweight** ('Apex Anchor') above geostationary orbit to support the weight of the tether.
 - **Climbers** to transport payloads and people up and down the tether.
 
 ![Space Elevator Concept](https://isec.org/resources/Pictures/Concept_Artwork_3.jpg)
 
 This innovative system could dramatically reduce the cost and energy required to access space compared to traditional rockets.
+
+( Space Elevators are feasible on other planetary bodies, but the Earth is the primary focus for ISEC )
 
 ---
 
@@ -78,7 +80,7 @@ Visit [https://isec.org/membership](https://isec.org/membership) to get started.
 
 ### License
 
-This repository and its contents are governed by the terms of all applicable licenses all repositories containing intelectual property are private.   Access to any articat is restricted.
+This repository and its contents are governed by the terms of all applicable licenses all repositories containing intellectual property are private.   Access to any articat is restricted.
 
 ---
 ![ISEC Logo](https://images.squarespace-cdn.com/content/v1/5e35af40fb280744e1b16f7b/1665545924720-VDSYL1Z3D9ZATA9LUBD4/elevatorLogo.jpg?format=2500w)
