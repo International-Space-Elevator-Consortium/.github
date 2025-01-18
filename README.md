@@ -46,7 +46,7 @@ ISEC provides many resources to help educate and promote the Space Elevator conc
 5. **Photographs**: Just a few Space Elevator visionary photgraphs.  
    [Photographs](https://www.isec.org/photographs)](https://www.isec.org/photographs)
 
-6. **ISEC Current Newsleter**: The current and all previoius newsletters.  
+6. **ISEC Current Newsleter**: The current and all previous newsletters.  
    [Social Media](https://www.isec.org/current-newsletter)](https://www.isec.org/current-newsletter)
 
 7. **ISEC Sponsors**: ISEC cannot do this work alone without your help and other champions.  
