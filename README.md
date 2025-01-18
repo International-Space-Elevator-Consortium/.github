@@ -70,10 +70,9 @@ Visit [https://isec.org/membership](https://isec.org/membership) to get started.
 ## Connect with Us
 
 - **Website**: [https://isec.org](https://isec.org)  
-- **Twitter**: [@ISECdotORG](https://twitter.com/ISECdotORG)
 - **LinkedIn**: [International Space Elevator Consortium](https://www.linkedin.com/company/international-space-elevator-consortium)
 - **Bluesky**: [isecdotorg.bsky.social](https://bsky.app/profile/isecdotorg.bsky.social)
-- 
+- **X**: [@ISECdotORG](https://twitter.com/ISECdotORG)
 
 ---
 
